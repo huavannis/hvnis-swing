@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hvnis-swing-theme" />
+        <module name="hvnis-swing-layout" />
         <module name="hvnis-swing-core" />
       </profile>
     </annotationProcessing>

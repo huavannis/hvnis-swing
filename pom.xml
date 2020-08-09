@@ -11,6 +11,7 @@
     <modules>
         <module>hvnis-swing-core</module>
         <module>hvnis-swing-theme</module>
+        <module>hvnis-swing-layout</module>
     </modules>
 
     <dependencies>
