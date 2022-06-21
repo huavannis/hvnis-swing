@@ -29,7 +29,7 @@ import com.hvnis.swing.theme.ITheme;
  * @author hvnis
  */
 public class ComponentCreator {
-	private ITheme theme;
+	private final ITheme theme;
 
 	public ComponentCreator(ITheme theme) {
 		this.theme = theme;
@@ -47,8 +47,8 @@ public class ComponentCreator {
 		return new TabPane(theme);
 	}
 
-	public Button createButton(String label) {
-		return new Button(theme, label);
+	public Button createButton() {
+		return new Button(theme);
 	}
 
 	public RadioButton createRadioButton(String label) {

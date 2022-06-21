@@ -9,6 +9,7 @@
         <module name="hvnis-swing-theme" />
         <module name="hvnis-swing-layout" />
         <module name="hvnis-swing-core" />
+        <module name="ranoffee" />
       </profile>
     </annotationProcessing>
   </component>

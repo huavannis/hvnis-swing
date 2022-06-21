@@ -26,6 +26,7 @@ public class Button extends JButton {
 	private int height = 25;
 
 	public Button(ITheme theme) {
+		super();
 		init(theme);
 	}
 

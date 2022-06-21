@@ -12,6 +12,7 @@
         <module>hvnis-swing-core</module>
         <module>hvnis-swing-theme</module>
         <module>hvnis-swing-layout</module>
+        <module>ranoffee</module>
     </modules>
 
     <dependencies>
@@ -19,14 +20,14 @@
             <groupId>com.miglayout</groupId>
             <artifactId>miglayout</artifactId>
             <version>4.0</version>
-            <systemPath>D:/github/hvnis-swing/libs/miglayout-4.0.jar</systemPath>
+            <systemPath>/Users/nishua/myprojects/hvnis-swing/libs/miglayout-4.0.jar</systemPath>
             <scope>system</scope>
         </dependency>
         <dependency>
             <groupId>io.github.lzh0379</groupId>
             <artifactId>jdatepicker</artifactId>
             <version>2.3.0</version>
-            <systemPath>D:/github/hvnis-swing/libs/jdatepicker-2.0.3.jar</systemPath>
+            <systemPath>/Users/nishua/myprojects/hvnis-swing/libs/jdatepicker-2.0.3.jar</systemPath>
             <scope>system</scope>
         </dependency>
     </dependencies>
